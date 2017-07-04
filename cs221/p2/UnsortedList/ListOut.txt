@@ -1,0 +1,46 @@
+<int> MODULE
+
+List1: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+List2: List is empty!
+List3: 22, 198, 34, 678, 43, 100, 30, 60, 78, 34
+
+
+List3: 22, 198
+List2: 34, 678, 43, 100, 30, 60, 78, 34
+
+
+List2: List is empty!
+
+
+List2: List is empty!
+
+
+List4: 23, 200, 3, 4, 5, 6, 7, 8, 9, 10
+
+
+<char> MODULE
+
+List1: g, s, e, a, e, w, w, w, e, e, e, e, e, e, e, e, e, e, e, e, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, v, v, v, v, v, v
+List2: g, s, e, a, e, w, w, w, e, e, e, e, e, e, e, e, e, e, e, e, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, v, v, v, v, v, v
+List3: !, @, a, h, k, *, &, (, -, _, l, l, m, o, o
+
+
+List2: g, s, e, a, e, w, w, w, e, e, e, e, e, e, e, e, e, e, e, e, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, v, v, v, v, v, v
+List3: !, @, a, h, k, *, &, (, -, _, l, l, m, o, o
+
+
+List1: ‚, ¢, Ä, à, Œ, W, Q, e, ™, Ë, Î, Û, æ, Ð, ×, !
+
+
+<string> MODULE
+
+List1: abba, boo, cow, dog, eel, funk, grunge
+List2: abba, boo, cow, dog, eel, funk, grunge
+List3: zoo, yoyo, xylophone, watermelon, veer, up
+
+
+List2: abba, boo, cow, i added a node!
+List3: dog, eel, funk, grunge
+
+
+List1: onedog, twoeel, threefunk, fourgrunge, five, six, seven, eigth, nine, ten
